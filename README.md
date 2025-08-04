@@ -1,32 +1,41 @@
-# 📚 EduNet
+📘✨ StudySync – Seamless Learning for Brighter Futures ✨📘
+A responsive, modern, and beautifully designed landing page for an educational platform that connects students with innovative learning tools and resources.
 
-EduNet is a modern, responsive landing page for an educational platform that promotes personalized, affordable, and tech-driven learning experiences. This project is built using **HTML** and **CSS**, showcasing clean design and layout best practices.
+🌟 Features
+📱 Fully responsive design
 
-## 🌟 Features
+🎨 Clean and modern user interface
 
-- ✅ Fully responsive layout for mobile and desktop
-- 🎨 Clean, modern UI using custom CSS (no frameworks)
-- 🧠 Sectioned layout including:
-  - Navigation Header
-  - Hero Section with CTA
-  - Trusted Partners Grid
-  - Features Section
-  - Testimonials
-  - Newsletter Signup
-  - Footer with Useful Links & Social Icons
+⚡ Fast loading and smooth animations
 
-## 🔧 Tech Stack
+🔍 SEO-friendly layout
 
-- **HTML5**
-- **CSS3**
-- Google Fonts (`Inter`)
-- Pure CSS animations and media queries
+🧩 Modular HTML and CSS structure
 
-## 🚀 Getting Started
+📦 Mobile-first approach
 
-To view the project:
+🔗 Social media icons and integration
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/sahilkh4n7/EduNet-.git
-2.  Open index.html in your browser.
+🛠️ Tech Stack
+🌐 HTML5 for structure and content markup
+
+🎨 CSS3 for styling and responsive layout
+
+🔤 Google Fonts for custom typography
+
+📁 Folder Structure
+The project contains assets such as images and icons, the main stylesheet file, the main HTML file, and this README file.
+
+🚀 Setup Instructions
+📥 Clone the repository to your local machine.
+
+🖥️ Open the project folder in your preferred code editor.
+
+🌐 Open the main HTML file in your browser or use a live server for preview.
+
+🌍 Deployment
+This project can be deployed using GitHub Pages or any static hosting platform by setting the root folder as the deployment source.
+
+🙏 Acknowledgements
+Designed and developed with care by [Mohd Sahil Khan].
+Logos and icons from Flaticon and Google Fonts.
